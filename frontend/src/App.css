@@ -95,7 +95,7 @@ nav svg {
     padding: 10px 30px;
   }
   nav::after {
-    content: "";
+    content: ""; 
     display: none;
   }
   nav .hamburger {
